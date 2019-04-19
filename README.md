@@ -37,3 +37,7 @@ const otherFile = require('./otherFile.js.md')
 ```js
 import otherFile from './otherFile.js.md'
 ```
+
+## Related
+
+[LavaScript](https://npm.im/lavascript) - Literate Programming for JavaScript
