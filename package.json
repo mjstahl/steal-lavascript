@@ -23,8 +23,8 @@
     "url": "https://github.com/mjstahl/steal-lavascript/issues"
   },
   "homepage": "https://github.com/mjstahl/steal-lavascript#readme",
-  "dependencies": {
-    "lavascript": "^0.6.2"
+  "peerDependencies": {
+    "lavascript": "^0.6.0"
   },
   "devDependencies": {
     "standard": "^12.0.1"

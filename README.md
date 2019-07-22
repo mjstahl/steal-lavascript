@@ -6,6 +6,12 @@
 $ npm install --save steal-lavascript
 ```
 
+[LavaScript](https://github.com/mjstahl/lavascript) is peer dependency and must be installed seperately.
+
+```console
+$ npm install --save-dev lavascript
+```
+
 ## Use
 
 To use this plugin load a `js.md` file with the bang syntax.
